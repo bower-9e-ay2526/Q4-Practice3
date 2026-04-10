@@ -18,3 +18,4 @@ function clickConfirm() {
             window.alert("Invalid Section Number");
     }
 }
+
